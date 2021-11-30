@@ -5,7 +5,7 @@ If you're most comfortable in Github, feel free to create an [issue here](https:
 
 For others, you can try our 'point and click' feedback mechanism that is powered by an app called Ruttl. Find the page you want to ake suggestions about below, open it, and then you can click anywhere to leave a comment on the page without setting up an account. The web team will review in 1-2 weeks and process accepted updates.
 
-[Home](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=6w1M6xWzijOpS5GRR1x3)
+Home: [Home](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=6w1M6xWzijOpS5GRR1x3)
 
 Learn:
 [Stacking](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=iKTokaLFdurWuuEBBul8) //

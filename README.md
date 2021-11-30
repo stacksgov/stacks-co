@@ -8,10 +8,10 @@ For others, you can try our 'point and click' feedback mechanism that is powered
 [Home](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=6w1M6xWzijOpS5GRR1x3)
 
 Learn
-[Stacking](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=iKTokaLFdurWuuEBBul8)
-[Stacks Overview](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=olpPIDdeJNWbpXKOylYE)
-[Features](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=fPjzdmeYuAthnmSOTx6S)
-[Stacks Learning Resources](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=zDSW2m3CalHHNfly3i06)
+[Stacking](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=iKTokaLFdurWuuEBBul8) //
+[Stacks Overview](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=olpPIDdeJNWbpXKOylYE)//
+[Features](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=fPjzdmeYuAthnmSOTx6S)//
+[Stacks Learning Resources](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=zDSW2m3CalHHNfly3i06)//
 
 Build
 [Get Started - Developers](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=8e6ZmpwbT2kDaXMHaS1A)

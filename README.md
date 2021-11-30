@@ -27,5 +27,5 @@ Explore:
 [Stacks Ecosystem](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=G3JgUpuZz6nPfIea8Nls) //
 
 
-What does the future of stacks.co look like? https://stacks.org/stacks-co
+→ What does the future of stacks.co look like? https://stacks.org/stacks-co
 

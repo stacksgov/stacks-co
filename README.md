@@ -1,9 +1,9 @@
 # stacks.co
-Repo for tracking suggestions, edits, and improvements for stacks.co
+Repo for tracking suggestions, edits, and improvements for stacks.co. Use this repo to provide feedback and ideas.
 
 If you're most comfortable in Github, feel free to create an [issue here](https://github.com/stacksgov/stacks-co/issues). 
 
-For others, you can try our 'point and click' feedback mechanism that is powered by an app called Ruttl. Find the page you want to ake suggestions about below, open it, and then you can click anywhere to leave a comment on the page without setting up an account. The web team will review in 1-2 weeks and process accepted updates.
+For others, you can try our **'point and click'** feedback mechanism that is powered by an app called Ruttl. Find the page you want to make suggestions to below, open it, and then you can click anywhere to leave a comment on the page without setting up an account. This is a good option for providing contextual, specific feedback, pointing out typos, suggesting small text edits, etc. The web team will review in 1-2 weeks and process accepted updates.
 
 Home: [Stacks Home](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=6w1M6xWzijOpS5GRR1x3)
 

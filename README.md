@@ -1,4 +1,4 @@
-# stacks.co
+# Stacks.co
 Repo for tracking suggestions, edits, and improvements for stacks.co. Use this repo to provide feedback and ideas.
 
 If you're most comfortable in Github, feel free to create an [issue here](https://github.com/stacksgov/stacks-co/issues). 

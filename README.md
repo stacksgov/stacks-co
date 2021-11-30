@@ -7,22 +7,22 @@ For others, you can try our 'point and click' feedback mechanism that is powered
 
 [Home](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=6w1M6xWzijOpS5GRR1x3)
 
-Learn
+Learn:
 [Stacking](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=iKTokaLFdurWuuEBBul8) //
 [Stacks Overview](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=olpPIDdeJNWbpXKOylYE)//
 [Features](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=fPjzdmeYuAthnmSOTx6S)//
 [Stacks Learning Resources](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=zDSW2m3CalHHNfly3i06)//
 
-Build
-[Get Started - Developers](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=8e6ZmpwbT2kDaXMHaS1A)
-[Funding](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=eyo221C1fALO1BvGUYSI)
-[Contribute](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=sHDLRlw3AQOV7XiKsCGq)
+Build: 
+[Get Started - Developers](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=8e6ZmpwbT2kDaXMHaS1A)//
+[Funding](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=eyo221C1fALO1BvGUYSI)//
+[Contribute](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=sHDLRlw3AQOV7XiKsCGq)//
 
-Explore
-[Get STX](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=pK3R4dEGbJVA1HAqVLqr)
-[Discover Apps](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=omMmdzqdMC3ezdIqPKGg)
-[Find a Wallet](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=BjF530sjBDxJWojGa5FL)
-[Stacks Ecosystem](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=G3JgUpuZz6nPfIea8Nls)
+Explore:
+[Get STX](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=pK3R4dEGbJVA1HAqVLqr)//
+[Discover Apps](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=omMmdzqdMC3ezdIqPKGg)//
+[Find a Wallet](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=BjF530sjBDxJWojGa5FL)//
+[Stacks Ecosystem](https://app.ruttl.com/share/MagKDDxPdcvz7bah0LQI?page=G3JgUpuZz6nPfIea8Nls)//
 
 
 What does the future of stacks.co look like? https://stacks.org/stacks-co
